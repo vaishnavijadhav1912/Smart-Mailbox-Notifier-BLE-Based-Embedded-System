@@ -41,4 +41,12 @@ This project implements a low-power, Bluetooth Low Energy (BLE)-based embedded s
 4. The user can reset the mail counter from the bonded client device.
 
 
+## Acknowledgments
+Developed as part of the Embedded Systems coursework at the University of Colorado Boulder. Special thanks to the professors and peers who supported this project.
+
+## License
+This project is for academic demonstration purposes only.
+
+
+
 
