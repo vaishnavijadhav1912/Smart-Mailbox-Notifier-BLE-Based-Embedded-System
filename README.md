@@ -2,6 +2,9 @@
 
 # Smart Mailbox Notifier – BLE-Based Embedded System
 
+Developed By:Vaishnavi Jadhav and Anuja Joshi
+Course: IOT Embedded Firmware
+
 ## Overview
 This project implements a low-power, Bluetooth Low Energy (BLE)-based embedded system to notify users when new mail arrives in a physical mailbox. It uses a combination of ambient light and distance sensing to detect the presence of mail and communicates the status to a bonded BLE client. The system also includes local alerts via an LCD and buzzer.
 
