@@ -2,7 +2,7 @@
 
 # Smart Mailbox Notifier – BLE-Based Embedded System
 
-Developed By:Vaishnavi Jadhav and Anuja Joshi
+Developed By:Vaishnavi Jadhav and Anuja Joshi     
 Course: IOT Embedded Firmware
 
 ## Overview
